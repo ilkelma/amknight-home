@@ -1,6 +1,6 @@
 ---
 title: "A.M. Knight"
-featured_image: '/images/tree.jpg'
+featured_image: '/images/hops.jpg'
 description: "Software & DevOps Engineer"
 ---
 ![Photo of A.M. Knight holding an apple and smiling at an orchard taken by his wife](/images/orchard.jpg)
